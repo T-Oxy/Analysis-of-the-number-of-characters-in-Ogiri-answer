@@ -49,7 +49,7 @@ So, in order to solve the question presented at the beginning, the following exp
 
 
 ## Data Collection
-    I collected the necessary experimental data according to the above data collection protocol. The data file name is “bokete_len_data.csv”. 
+I collected the necessary experimental data according to the above data collection protocol. The data file name is “bokete_len_data.csv”. 
 
 
 ## Data Analysis and Finding
